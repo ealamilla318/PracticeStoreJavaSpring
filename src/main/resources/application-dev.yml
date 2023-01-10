@@ -1,0 +1,7 @@
+server:
+  port: 3000
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/store
+    username: postgres
+    password: root
